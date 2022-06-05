@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/822Uo/5jkfVwJmY/jlLoYjv750T0p3szuYegzGpGa7QBHioyNXBIifpPYT+AyV7lN68vUt5Xy/J4IwkAQfnMQ==",
+  "success": true,
+  "projectFilePath": "/Users/vamsi/Documents/repos/ReStore/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/vamsi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/vamsi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/vamsi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/vamsi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/vamsi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/vamsi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
